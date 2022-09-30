@@ -1,0 +1,206 @@
+#desno{
+    background: url("slika 1.jpg")no-repeat;
+    width: 482px;
+    height: 553px;
+
+}
+
+#levo{
+    position: absolute;
+    bottom: 510px;
+    left: 600px;
+}
+#border-box1{
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    background: ghostwhite;
+    border: 1px solid darkgrey;
+    margin-bottom: 20px;
+}
+#border-box2{
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    background: ghostwhite;
+    border: 1px solid darkgrey;
+    margin-bottom: 20px;
+}
+#border-box3{
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    background: ghostwhite;
+    border: 1px solid darkgrey;
+    margin-bottom: 20px;
+}
+
+.text{
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 65px;
+    margin-right: auto;
+}
+#desno2{
+    background: url("slika2.jpg")no-repeat;
+    width: 482px;
+    height: 553px;
+    margin-top: 30px;
+}
+#levo2{
+    position: absolute;
+    bottom: 180px;
+    left: 350px;
+}
+#log{
+    position: absolute;
+    margin-top: 540px;
+}
+#desno3{
+    background: url("slika3.jpg");
+    width: 547px;
+    height: 232px;
+
+}
+#buy-kopce{
+    position: absolute;
+    margin-top:160px ;
+    margin-left:420px ;
+    width: 100px;
+    height: 30px;
+    color:deepskyblue;
+    border: 1px solid lightgrey
+}
+#desno4{
+    background: url("slika4.jpg")no-repeat;
+    width: 547px;
+    height: 232px;
+
+}
+#desno5{
+    background: url("slika5.jpg")no-repeat;
+    width: 547px;
+    height: 232px;
+
+}
+#desno6{
+    background: url("slika6.jpg")no-repeat;
+    width: 547px;
+    height: 232px;
+margin-bottom: -120px;
+}
+#buy-kopce1{
+    position: absolute;
+    margin-top:30px ;
+    margin-left:420px ;
+    width: 100px;
+    height: 30px;
+    color:deepskyblue;
+    border: 1px solid lightgrey
+}
+#buy-kopce2{
+    position: absolute;
+    margin-top:30px ;
+    margin-left:420px ;
+    width: 100px;
+    height: 30px;
+    color:deepskyblue;
+    border: 1px solid lightgrey
+}
+#buy-kopce3{
+    position: absolute;
+    margin-top:30px ;
+    margin-left:420px ;
+    width: 100px;
+    height: 30px;
+    color:deepskyblue;
+    border: 1px solid lightgrey
+}
+
+#desno7{
+    background: url("slika8.jpg")no-repeat;
+    width: 255px;
+    height: 217px;
+
+}
+.topnav {
+    background-color: black;
+    overflow: hidden;
+
+}
+
+#desno9{
+    position: absolute;
+    background: url("slika9.jpg")no-repeat;
+    width: 580px;
+    height: 333px;
+    margin-right: 200px;
+}
+#desno10{
+    position: absolute;
+    background: url("slika10.jpg")no-repeat;
+    width: 67px;
+    height: 47px;
+    margin-top: 135px;
+    margin-left: 237px;
+
+}
+
+
+#vid-kopce{
+    position: absolute;
+    margin-top:120px ;
+    margin-left:220px ;
+    width: 100px;
+    height: 80px;
+    background:black;
+    border: 1px solid lightgrey;
+}
+#border-box5{
+    margin-top: 390px;
+    box-sizing: border-box;
+    width: 500px;
+    height: 80px;
+    background: ghostwhite;
+    border: 1px solid darkgrey;
+}
+#border-box10{
+
+    box-sizing: border-box;
+    width: 500px;
+    height: 80px;
+    background: ghostwhite;
+    border: 1px solid darkgrey;
+
+}
+.text1{
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-right: auto;
+    font-family: "Arial";
+}
+#end-kopce{
+    position: absolute;
+    width: 500px;
+    height: 80px;
+    color:black;
+    border: 1px solid lightgrey
+}
+#mrdni{
+    margin-top: 380px;
+}
+#desno11{
+    background: url("slika11.jpg")no-repeat;
+    width: 665px;
+    height: 467px;
+
+}
+#back-kopce{
+
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    color:black;
+    border: 1px solid lightgrey
+}
